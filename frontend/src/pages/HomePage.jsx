@@ -185,7 +185,7 @@ const HomePage = () => {
       <header className="bg-white shadow-sm sticky top-0 z-20">
         <div className="container mx-auto px-4 py-4">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <h1 className="text-2xl font-bold text-blue-600">মান্নান স্টোর</h1>
+            <h1 className="text-2xl font-bold text-blue-600">Iftear Store</h1>
 
             {/* Search Bar */}
             <div className="flex-1 w-full sm:max-w-2xl sm:mx-4">
